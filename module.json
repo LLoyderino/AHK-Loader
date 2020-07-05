@@ -1,0 +1,12 @@
+{
+    "name": "load-ahk",
+    "author": "LLoyd",
+    "description": "Basic class based AHK loader.",
+    "options": {
+        "cliName": "AHKL",
+        "guiName": "AHK Loader"
+    },
+    "servers": ["https://raw.githubusercontent.com/LLoyderino/AHK-Loader/master/"],
+    "supportUrl": "https://github.com/LLoyderino/AHK-Loader/issues",
+    "disableAutoUpdate": false
+}

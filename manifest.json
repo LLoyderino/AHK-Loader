@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "db0b92387f8b6b6a0acebe7f831d3ee9b8bf98c94bda9671c951d549329b89d1",
+        "index.js": "48709ca441a4260538b5e7985519f48e6a0b76189f145bc07f60a05796c2ce0b",
+        "module.json": "6fe15822fd8890bbea882575f6110bd3f27eb4c1a56981e81a8711f38968dcfd",
+        "scripts/gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "defs": {
+        "S_GET_USER_LIST": "event",
+        "S_LOGIN": "event"
+    }
+}
